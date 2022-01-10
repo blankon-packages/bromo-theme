@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
+Uploaders: Samsul Ma'arif Test (For testing purpose only) <samsulmaariftest@getnada.com>
 Vcs-Git: https://gitlab.com/cho2/bromo-theme.git
 
 Package: bromo-theme
